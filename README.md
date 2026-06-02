@@ -2,7 +2,7 @@
 
 # Hi there, I'm chuoer47 👋
 
-`Pyhton` · `LLM` · `Agent` · `HSI SR` · `Java`
+`Pyhton` · `LLM` · `Agent` · `HSI SR` · `RAG` · `Java`
 
 一位XJTUCS的研究生，正在探索适合自己的工作、科研生活节奏✨
 
@@ -19,7 +19,7 @@
 
 - 🌱 最近沉迷`Vibe coding`和各类`LLM`新技术
 - 🛠️ 尝试整理值得长期维护的项目和 demo（很明显没有进展
-- 📚 搭建博客，一边做东西，一边补足记录和输出
+- 📚 新项目InterX，RAG的客服，研电赛参赛作品
 
 
 ## 📈 Activity
