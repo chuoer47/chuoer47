@@ -2,24 +2,25 @@
 
 # Hi there, I'm chuoer47 👋
 
-`Pyhton` · `LLM` · `Agent` · `HSI SR` · `RAG` · `Java`
+`Python` · `HSI SR` · `Agent` · `AI infra`
 
-一位XJTUCS的研究生，正在探索适合自己的工作、科研生活节奏✨
+一位XJTUCS的研究生，正在华子实习，持续探索适合自己的工作、科研生活节奏✨
 
 </div>
 
 ## ✨ About Me
 
-- 🧩 XJTUCS三无人员（无论文，无科研，无竞赛），不过在努力取得好结果
-- ⚙️ 之前想搞JAVA开发，现在目标是Agent开发人员/LLM研究人员
+- 🧩 三水人员（水论文，水科研，水竞赛），不过在努力取得好结果
+- ⚙️ 本科在搞JAVA开发，现在是LLM从业人员...（好宽泛）
 - 📝 开源XJTUSE本科/XJTUCS研究生学习资源
 
 
 ## 🚧 Now
 
 - 🌱 最近沉迷`Vibe coding`和各类`LLM`新技术
-- 🛠️ 尝试整理值得长期维护的项目和 demo（很明显没有进展
-- 📚 新项目InterX，RAG的客服，研电赛参赛作品
+- 🛠️ 尝试整理值得长期维护的项目
+- 📚 新项目InterX，RAG的客服，研电赛省二
+- 📚 新项目basicHSISR
 
 
 ## 📈 Activity
@@ -45,7 +46,8 @@
 
 - GitHub: [@chuoer47](https://github.com/chuoer47)
 - Email: `lingchen47@outlook.com`
-- Blog: [web](https://chuoer47.github.io/)/[CSDN](https://blog.csdn.net/weixin_64112516)
+- Blog: [web](chuoer47.github.io)
+- Blog: [CSDN](https://chuoer47.github.io/)/[CSDN](https://blog.csdn.net/weixin_64112516)
 - Leetcode: [@Leetcode/chuoer47](https://leetcode.cn/u/chuoer47/)
 
 ---
