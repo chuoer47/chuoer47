@@ -22,31 +22,11 @@
 - 📚 新项目InterX，RAG比赛，研电赛省二
 - 📚 新项目basicHSISR，高光谱超分框架，集成多个baseline
 
-
-## 📈 Activity
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=chuoer47&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph"
-    />
-    <source
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=chuoer47&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph"
-    />
-    <img
-      alt="GitHub activity graph"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=chuoer47&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph"
-    />
-  </picture>
-</p>
-
 ## 📫 Contact
 
 - GitHub: [@chuoer47](https://github.com/chuoer47)
 - Email: `lingchen47@outlook.com`
-- Blog: [web](chuoer47.github.io)
+- Note: [web](chuoer47.github.io)
 - Blog: [CSDN](https://chuoer47.github.io/)/[CSDN](https://blog.csdn.net/weixin_64112516)
 - Leetcode: [@Leetcode/chuoer47](https://leetcode.cn/u/chuoer47/)
 
