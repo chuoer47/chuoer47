@@ -28,7 +28,7 @@
 - GitHub: [@chuoer47](https://github.com/chuoer47)
 - Email: `lingchen47@outlook.com`
 - Note: [web](chuoer47.github.io)
-- Blog: [CSDN](https://chuoer47.github.io/)/[CSDN](https://blog.csdn.net/weixin_64112516)
+- Blog: [个人博客](https://chuoer47.github.io/)/[CSDN](https://blog.csdn.net/weixin_64112516)
 - Leetcode: [@Leetcode/chuoer47](https://leetcode.cn/u/chuoer47/)
 
 ---
