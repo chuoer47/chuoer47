@@ -2,9 +2,9 @@
 
 # Hi there, I'm chuoer47 👋
 
-`Python` · `HSI SR` · `AI infra`
+`AI infra` · `HSI SR` · `WLB`
 
-一位XJTUCS的研究生，华子实习END，在找实习，👏求内推
+一位XJTUCS的研究生，可灵data infra实习ing👏
 
 持续探索适合自己的工作、科研生活节奏✨
 
@@ -19,9 +19,9 @@
 
 ## 🚧 Now
 
-- 🌱 LinkQ2（Toy项目）END——个人项目，结合了量化/投机推理
+- 🌱 华为 infra 实习 END / LinkQ2 END
+- 📚 高光谱超分科研ing
 - 🛠️ 在整理值得长期维护的项目
-- 📚 basicHSISR，高光谱超分框架
 
 ## 📫 Contact
 
